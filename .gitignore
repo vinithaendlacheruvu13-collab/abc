@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.tools/
+node-index.json
+node-portable.zip
+npm-debug.log*
